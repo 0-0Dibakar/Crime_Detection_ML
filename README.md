@@ -1,6 +1,8 @@
 # Crime_Detection_ML
 Developing a machine learning model for crime detection is a complex task that requires expertise in both machine learning and criminology.
 
+![CD Module](https://github.com/0-0Dibakar/Crime_Detection_ML/assets/106139442/f5bb045d-2cc5-49c8-9b4b-1b2b6ce76453)
+
 **Introduction:-**
 With the increasing activities of crime throughout the country and world, it has become a very serious issue for authorities as well as people. Also continuous monitoring of the public places and automatic detection and intimation of crime activities in public places is a challenge to improve the standard of public safety and security. Video surveillance systems are affordable and have been used everywhere nowadays. The human monitoring of multiple video surveillance channels simultaneously is found to be costly, time-consuming, more prone to error, and ineffective as the number of channels increases. Hence, a lot of attention has been put on the development of the intelligent surveillance system by both academia and industries. 
 
@@ -38,12 +40,6 @@ The anomalous frame sequences are preprocessed to get the frames with the requir
 **Summary:-**
 The devolped intelligent video surveillance system detects crime activities using the video for real-time applications and also intimates the concerned authorities in near-real time. The system is cap able of operating either in edge computing mode or in hybrid mode of computation depending upon the required applications. Intially, the system detects a video anomaly, i.e., unexpected patterns or rarely occurring events, wherein its confidence level will be defined by the anomaly score; then, there is crime event classification and  recognition of weapons used in the crime incident are performed, wherein a deep learning-based highly computationally heavy process is executed only for the anomalous frames corresponding to the video anomaly instead of all the frames. This results in an effcienient and robust end-to-end pipleline for complete crime scene analysis. Hence, the system provides a video surveillance-based economical crime alert system which can reduce the impact of crime in real-time. 
 
-
-
-
-
-
-![CD Module](https://github.com/0-0Dibakar/Crime_Detection_ML/assets/106139442/77f3b0b4-5400-4632-9e72-e583c7c68c68)
 
 
 
