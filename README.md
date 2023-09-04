@@ -43,6 +43,7 @@ The devolped intelligent video surveillance system detects crime activities usin
 
 
 
+![CD Module](https://github.com/0-0Dibakar/Crime_Detection_ML/assets/106139442/77f3b0b4-5400-4632-9e72-e583c7c68c68)
 
 
 
